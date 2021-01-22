@@ -1,0 +1,12 @@
+{
+  "name": "blezylsa/328/pets",
+  "authors": [
+    {
+      "name": "Blezyl Santos, Patrick Dang",
+      "email": "bsantos4@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
